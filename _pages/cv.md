@@ -11,32 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Probability Theory, Université Toulouse III - Paul Sabatier, Universität Potsdam, 2022
+* M.Sc. in Mathematics, Minor in Physics, Universität Potsdam, 2019
+* B.Sc. in Mathematics, Minor in Physics, Karlsruhe Institut of Technology, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Quantitative Consultant, d-fine AG
+  * DevOps/CICD
+  * Trading Systems
+  * Risk Management
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
 * Probabilistic Thinking/Rationality
 * Probabilistic Modelling
   * Aggregation of Complex Systems
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Population Dynamics
+  * Opinion Dynamics 
+* Combinatorics
+* Geometric Graph Theory
+* Markov Chains & Exclusion Processes
 * DevOps and Python Programming
   * Jenkins, Maven, Artifactory
-  * 
   
 
 Publications
@@ -45,6 +43,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+Preprints
+======
+  <ul>{% for post in site.preprints %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+    
 Talks
 ======
   <ul>{% for post in site.talks %}

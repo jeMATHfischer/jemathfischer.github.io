@@ -1,7 +1,7 @@
 ---
 title: "Transcendental solution to linear coefficient non-homogeneous second order recurrence relation with constant non-homogenity"
 collection: preprints
-permalink: /preprints/2022-04-26-paper-title-number-1
+permalink: /preprint/2022-04-26-transcendental-solutions
 excerpt: 'This paper finds transcendatal solutions to a second order recurrence relation with linear coefficients and a constant non-homogenity.'
 date: 2022-04-26
 venue: 
